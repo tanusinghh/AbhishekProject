@@ -1,0 +1,5 @@
+{
+    "reguser":"/api/users/getuser",
+    "getcountries":"/api/data/countries",
+    "getuser":"/api/users/getuser/"
+}

@@ -1,0 +1,16 @@
+button{
+    color: #fff;
+    font-weight: 700;
+    background-color: gold;
+    border: navajowhite;
+    cursor: pointer;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.registration-container {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
